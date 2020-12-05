@@ -1,2 +1,7 @@
-*.gitignore.un~
-*main.py.nu~
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea/
+venv/
+__pycache__/
+
